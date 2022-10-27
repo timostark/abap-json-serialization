@@ -1,7 +1,7 @@
 # abap-json-serialization
 Fastest possible JSON serialization
 
-See blog post https://blogs.sap.com/2022/10/27/abap-fastest-json-serialization-yet/ for details.
+See blog post https://blogs.sap.com/2022/10/27/abap-fast-json-serialization/ for details.
 
 Execute program ZJSON_TO_XSLT to generate specialized JSON XSLT transformations.
 Execute the specificly created transformation using following sample code.
